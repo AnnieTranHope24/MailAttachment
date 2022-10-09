@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=OperatingSystem
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ OperatingSystem\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=OperatingSystem()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ OperatingSystem\r\n
+comment2.params=
+comment2.target=OperatingSystem\ getInstance()
+comment2.text=\r\n\ Get\ one\ and\ only\ OperatingSystem\ instance.\r\n\ If\ no\ instance\ has\ been\ created,\ initiate\ a\ new\ OperatingSystem.\r\n
+comment3.params=nameExtension\ app
+comment3.target=void\ registerApplication(java.lang.String,\ Application)
+comment3.text=\r\n\ Store\ mappings\ from\ file\ extensions\ to\ Applications\ in\ filenameMap.\r\n\ @param\ nameExtension\ a\ filename\ extension(e.g.,\ "jpg")\r\n\ @param\ app\ an\ instance\ of\ an\ Application\ (e.g.,\ a\ PhotoViewer)\r\n
+comment4.params=filename\ size\ otherDetails
+comment4.target=Attachment\ createAttachment(java.lang.String,\ long,\ java.lang.String[])
+comment4.text=\r\n\ \r\n
+comment5.params=theAttachment
+comment5.target=void\ openAttachment(Attachment)
+numComments=6

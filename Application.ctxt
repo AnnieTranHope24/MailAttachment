@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Application
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ Application\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=theAttachment
+comment1.target=boolean\ open(Attachment)
+comment2.params=filename\ size\ otherDetails
+comment2.target=Attachment\ create(java.lang.String,\ long,\ java.lang.String[])
+comment2.text=\r\n\ Create\ an\ Attachment\ of\ the\ appropriate\ type\ matching\ the\ filename\ extension.\r\n\ @param\ filename\ The\ filename\ for\ the\ Attachment.\r\n\ @param\ size\ The\ size\ of\ the\ Attachment\ (in\ kilobytes).\r\n\ @param\ otherDetails\ An\ array\ of\ application-specific\ details\ about\ the\ Attachment.\r\n
+numComments=3

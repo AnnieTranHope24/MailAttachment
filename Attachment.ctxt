@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Attachment
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Attachment\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=filename\ size
+comment1.target=Attachment(java.lang.String,\ long)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Attachment\r\n
+comment2.params=
+comment2.target=void\ preview()
+comment2.text=\r\n\ Print\ all\ details\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Return\ a\ String\ that\ contains\ all\ details\ of\ the\ attachment.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getFilename()
+comment4.text=\r\n\ Get\ the\ filename\ of\ the\ attachment.\r\n\ @return\ the\ filename\ of\ the\ attachment.\r\n
+comment5.params=
+comment5.target=long\ getSize()
+comment5.text=\r\n\ Get\ the\ size\ of\ the\ attachment.\r\n\ @return\ an\ int\ of\ the\ size\ of\ the\ attachment.\r\n
+numComments=6

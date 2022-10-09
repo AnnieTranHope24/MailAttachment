@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ZipFileAttachment
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ZipFileAttachment\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=filename\ size\ description
+comment1.target=ZipFileAttachment(java.lang.String,\ long,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ZipFileAttachment\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Return\ all\ details\ of\ the\ zip\ file\ attachment.\r\n
+comment3.params=
+comment3.target=void\ preview()
+comment3.text=\r\n\ Print\ all\ details\ of\ the\ picture\ attachment.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getDescription()
+comment4.text=\r\n\ Get\ the\ description\ of\ the\ text\ fie\ attachment.\r\n\ @return\ a\ string\ of\ the\ description.\r\n
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ZipApp
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ZipApp\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ZipApp()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ZipApp\r\n
+comment2.params=theAttachment
+comment2.target=boolean\ open(Attachment)
+comment2.text=\r\n\ Prints\ out\ details\ relevant\ to\ the\ pdf\ file\ attachment.\r\n\ Return\ a\ true\ if\ it\ was\ able\ to\ open\ the\ attachment,\ otherwise\ it\ returns\ a\ false.\r\n
+comment3.params=filename\ size\ otherDetails
+comment3.target=Attachment\ create(java.lang.String,\ long,\ java.lang.String[])
+comment3.text=\r\n\ Create\ an\ Attachment\ of\ the\ appropriate\ type\ matching\ the\ filename\ extension.\r\n\ @param\ filename\ The\ filename\ for\ the\ Attachment.\r\n\ @param\ size\ The\ size\ of\ the\ Attachment\ (in\ kilobytes).\r\n\ @param\ otherDetails\ An\ array\ of\ application-specific\ details\ about\ the\ Attachment.\r\n
+numComments=4

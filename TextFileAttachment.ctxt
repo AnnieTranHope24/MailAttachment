@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TextFileAttachment
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TextFileAttachment\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=filename\ size\ text
+comment1.target=TextFileAttachment(java.lang.String,\ long,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TextFileAttachment\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Return\ all\ details\ of\ the\ text\ file\ attachment.\r\n
+comment3.params=
+comment3.target=void\ preview()
+comment3.text=\r\n\ Print\ all\ details\ of\ the\ text\ file\ attachment.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getText()
+comment4.text=\r\n\ Get\ the\ text\ of\ the\ text\ fie\ attachment.\r\n\ @return\ a\ string\ of\ the\ text.\r\n
+numComments=5

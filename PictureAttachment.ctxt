@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PictureAttachment
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PictureAttachment\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=filename\ size\ description\ height\ width
+comment1.target=PictureAttachment(java.lang.String,\ long,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PictureAttachment\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Return\ all\ details\ of\ the\ picture\ attachment.\r\n
+comment3.params=
+comment3.target=void\ preview()
+comment3.text=\r\n\ Print\ all\ details\ of\ the\ picture\ attachment.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getDescription()
+comment4.text=\r\n\ Get\ the\ description\ of\ the\ picture.\r\n\ @return\ the\ description\ of\ the\ picture.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getWidth()
+comment5.text=\r\n\ Get\ the\ width\ of\ the\ picture.\r\n\ @return\ the\ width\ of\ the\ picture.\r\n
+comment6.params=
+comment6.target=java.lang.String\ getHeight()
+comment6.text=\r\n\ Get\ the\ height\ of\ the\ picture.\r\n\ @return\ the\ height\ of\ the\ picture.\r\n
+numComments=7
